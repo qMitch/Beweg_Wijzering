@@ -4,37 +4,37 @@ Dit project is opgedeeld in verschillende branches op basis van de map structuur
 
 
 
--Backupfiles
-  -BackupEthernet
-  -BackupMain
-BackupMCP23017
-BackupSDIO
-src
-README
-main.h
-main.cpp
-ethernet_handler.h
-ethernet_handler.cpp
-mcp_handler.h
-mcp_handler.cpp
-sd_handler.h
-sd_handler.cpp
-webserver_handler.h
-webserver_handler.cpp
-lcd_handler.h
-lcd_handler.cpp
-test
-README
-test_main.h
-test_main.cpp
-test_ethernet_handler.h
-test_ethernet_handler.cpp
-test_mcp_handler.h
-test_mcp_handler.cpp
-test_sd_handler.h
-test_sd_handler.cpp
-test_webserver_handler.h
-test_webserver_handler.cpp
-test_lcd_handler.h
-test_lcd_handler.cpp
+- Backupfiles
+  - BackupEthernet
+  - BackupMain
+  - BackupMCP23017
+  - BackupSDIO
+- src
+  - README  
+  - main.h
+  - main.cpp
+  - ethernet_handler.h
+  - ethernet_handler.cpp
+  - mcp_handler.h
+  - mcp_handler.cpp
+  - sd_handler.h
+  - sd_handler.cpp
+  - webserver_handler.h
+  - webserver_handler.cpp
+  - lcd_handler.h
+  - lcd_handler.cpp
+- test
+  - README
+  - test_main.h
+  - test_main.cpp
+  - test_ethernet_handler.h
+  - test_ethernet_handler.cpp
+  - test_mcp_handler.h
+  - test_mcp_handler.cpp
+  - test_sd_handler.h
+  - test_sd_handler.cpp
+  - test_webserver_handler.h
+  - test_webserver_handler.cpp
+  - test_lcd_handler.h
+  - test_lcd_handler.cpp
 Dit Project wordt beoordeeld voor mijn semester 4 eindproject AD.
