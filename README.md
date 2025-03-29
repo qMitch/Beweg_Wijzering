@@ -1,3 +1,4 @@
+*BewegWijzering*
 Is de basis voor toekomstige Led-e-Lux Esp32 projecten in dit project staan verschillende bibliotheken met basisfuncties die hergebruikt kunnen worden en is zo geschreven dat het makkelijk herbruikbaar is.
 
 Dit project is opgedeeld in verschillende branches op basis van de map structuur uit Visual Studio Code, deze IDE is namelijk gebruikt hiervoor werd ook nog een extensie gebruikt PlatformIO. 
