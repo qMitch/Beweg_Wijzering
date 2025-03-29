@@ -1,4 +1,4 @@
-^BewegWijzering^
+&BewegWijzering&
 
 Is de basis voor toekomstige Led-e-Lux Esp32 projecten in dit project staan verschillende bibliotheken met basisfuncties die hergebruikt kunnen worden en is zo geschreven dat het makkelijk herbruikbaar is.
 
