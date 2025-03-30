@@ -4,7 +4,7 @@ Is de basis voor toekomstige Led-e-Lux Esp32 projecten in dit project staan vers
 
 Dit project is opgedeeld in verschillende mappen op basis van de structuur uit Visual Studio Code, deze IDE is namelijk gebruikt hiervoor werd ook nog een extensie gebruikt PlatformIO. 
 Met deze extensie kan je in de Arduino omgeving werken en is dit ook goed te combineren met de ESP chips.
-In de backupfiles staan korte stukjes code die een module of bibliotheek uit testen met de devkit. 
+In de backupfiles staan korte stukjes code die een module of bibliotheek uit testen met de ESP. 
 In de src staat alle code die het hart vormt van dit project, de eigen geschreven bibliotheken gebaseerd op de modules of functionaliteiten die zijn ingebouwd, daarnaast staat hier ook de main file die gedraaid wordt op de ESP. 
 Als laatste is er nog een map met een test main file die gebruik maakt van alle test files die erin staan om op die manier verschillende functie in een unit te testen.
 
