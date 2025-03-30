@@ -59,14 +59,22 @@ ook wordt hier de Ethernet configuratie weergegeven voor de webpagina.
 De indexering van de SD kaart wordt gedaan zoals het voorbeeld hier onder:
 
 /SD kaart/
+
 ├── 001_image.jpg  
+
 ├── 002_image.bmp
+
 ├── ...
 ├── /006_VideoKone/
+
 │	├──frame0001.bmp
+
 │	├──frame0002.bmp
+
 │	├──…
+
 ├── /007_VideoJumbo/
+
 ├── ...
 
 Deze volgorde moet bestaan uit de volgende prompt 001_randomNaam tot maximaal 254_randomNaam. De bestanden die in de hoofdmap staan worden gebruikt als foto, de foto moet de maximale resolutie hebben van 380x480. Deze foto kan dan worden toegevoegd als .bmp of .jpg, voorkeur gaat uit naar jpg omdat deze ook via de webserver getoond kan worden. Video wordt opgedeeld in frames in bestandsformaat .bpm en bevat de prompt frame0001 t/m bijvoorbeeld frame0240.
