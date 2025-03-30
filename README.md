@@ -44,4 +44,12 @@ Als laatste is er nog een map met een test main file die gebruik maakt van alle 
   - test_lcd_handler.h
   - test_lcd_handler.cpp
 
+De gebruikte externe bibliotheken zijn:
+
+-  arduino-libraries/Ethernet
+-  adafruit/Adafruit MCP23017 Arduino Library
+-  unity
+-  ovyan03/LovyanGFX@^1.1.6
+-  odmer/JPEGDecoder@^2.0.0
+
 Dit Project wordt beoordeeld voor mijn semester 4 eindproject AD.
